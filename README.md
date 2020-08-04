@@ -1,5 +1,5 @@
   <link rel="stylesheet" type="text/css" href="assets/css/stylesheet.css">
 
-# chat.abz-kanzlei.ch
+Der Rocket.Chat unter chat.abz-kanzlei.ch wurde im August 2020 ausser Betrieb genommen. Bei Fragen erreicht ihr uns per E-Mail oder SMS/Telefon.
 
-Wieso nicht einfach nur ein Readme?
+—— eure SiKo Kanzlei
