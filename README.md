@@ -1,3 +1,3 @@
 # abz-kanzlei.ch
 
-Wieso nicht einfach ein Readme?
+Wieso nicht einfach nur ein Readme?
